@@ -1,0 +1,213 @@
+{
+  "b8bd3bba-9283-11ed-a702-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bbb-9283-11ed-b530-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bbc-9283-11ed-ac5e-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bbd-9283-11ed-a55f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bbe-9283-11ed-84c7-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bbf-9283-11ed-a85d-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc0-9283-11ed-a83b-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc1-9283-11ed-b186-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc2-9283-11ed-a07f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc3-9283-11ed-890f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc4-9283-11ed-bf5f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc5-9283-11ed-937e-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc6-9283-11ed-bd3e-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc7-9283-11ed-978f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc8-9283-11ed-af7c-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bc9-9283-11ed-830b-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bca-9283-11ed-a8d4-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bcb-9283-11ed-8c52-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bcc-9283-11ed-a52d-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bcd-9283-11ed-9272-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bce-9283-11ed-980c-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bcf-9283-11ed-aa2d-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd0-9283-11ed-b7cd-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd1-9283-11ed-ab79-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd2-9283-11ed-b18f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd3-9283-11ed-8c3f-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged"
+  ],
+  "b8bd3bd4-9283-11ed-b9cf-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd5-9283-11ed-9488-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd6-9283-11ed-97b9-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd7-9283-11ed-9663-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged",
+    "CancelRequest",
+    "CancelAcknowledged",
+    "Cancelled"
+  ],
+  "b8bd3bd8-9283-11ed-8009-047c16291a22": [
+    "NewOrderRequest",
+    "NewOrderAcknowledged"
+  ]
+}
